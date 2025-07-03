@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Cookie Defender",
+  "version": "1.0",
+  "description": "Block malicious tracking cookies with AI analysis",
+  "permissions": [
+    "cookies",
+    "storage",
+    "tabs",
+    "webRequest"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png",
+    "default_title": "Cookie Defender"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
