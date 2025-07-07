@@ -23,7 +23,11 @@ AI-Cookie-Inspector is a browser extension that scans, detects, and blocks malic
 
 Load in Browser
 Chrome/Edge
-**1.** Visit chrome://extensions
-**2.** Enable Developer mode (toggle in top-right)
-**3.** Click Load unpacked
-**4.** Select the dist/ folder in your project
+**1.** Visit chrome://extensions  
+
+**2.** Enable Developer mode (toggle in top-right)  
+
+**3.** Click Load unpacked  
+
+**4.** Select the dist/ folder in your project  
+
