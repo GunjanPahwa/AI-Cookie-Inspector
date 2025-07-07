@@ -22,7 +22,7 @@ AI-Cookie-Inspector is a browser extension that scans, detects, and blocks malic
    cd AI-Cookie-Inspector
 
 Load in Browser
-Chrome/Edge
+Chrome/Edge  
 **1.** Visit chrome://extensions  
 
 **2.** Enable Developer mode (toggle in top-right)  
